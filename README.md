@@ -2,7 +2,7 @@
 
 Software engineer at Amazon Music, 6+ years building distributed systems at scale.
 
-**Interests:** search infrastructure, streaming data, developer tooling.
+**Interests:** workflow orchestration, search infra, streaming data, developer tooling.
 
 ### Open Source Contributions
 
